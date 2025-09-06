@@ -1,0 +1,11 @@
+file_format: "1"
+id: zmk-config-test
+name: zmk-config-test
+type: shield
+url: https://github.com/StrangledShriek/zmk-config-test
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+  - split
+  - wireless
+  - studio
